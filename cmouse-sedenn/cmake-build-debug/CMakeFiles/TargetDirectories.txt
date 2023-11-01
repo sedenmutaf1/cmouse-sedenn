@@ -1,3 +1,0 @@
-/home/seden/CLionProjects/cmouse-sedenn/cmake-build-debug/CMakeFiles/cmouse_sedenn.dir
-/home/seden/CLionProjects/cmouse-sedenn/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/seden/CLionProjects/cmouse-sedenn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
